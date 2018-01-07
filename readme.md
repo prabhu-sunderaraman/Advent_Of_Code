@@ -11,3 +11,8 @@
 ## Day02
 * http://adventofcode.com/2017/day/2
 * Part 1 and 2 solved using Ruby
+
+
+## Day03
+* http://adventofcode.com/2017/day/3
+* Part 1 and 2 solved using Ruby
