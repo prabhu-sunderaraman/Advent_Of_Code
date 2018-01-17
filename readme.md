@@ -25,3 +25,8 @@
 ## Day05
 * http://adventofcode.com/2017/day/5
 * Part 1 and 2 solved using ES6
+
+
+## Day06
+* http://adventofcode.com/2017/day/6
+* Part 1 and 2 solved using ES6
