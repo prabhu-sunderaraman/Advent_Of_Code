@@ -30,3 +30,8 @@
 ## Day06
 * http://adventofcode.com/2017/day/6
 * Part 1 and 2 solved using ES6
+
+## Day07
+* http://adventofcode.com/2017/day/7
+* Part 1 and 2 solved using Kotlin
+* Needs to be refactored
