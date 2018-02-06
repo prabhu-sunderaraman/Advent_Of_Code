@@ -35,3 +35,9 @@
 * http://adventofcode.com/2017/day/7
 * Part 1 and 2 solved using Kotlin
 * Needs to be refactored
+
+
+## Day08
+* http://adventofcode.com/2017/day/8
+* Part 1 and 2 solved using ES6
+
