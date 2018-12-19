@@ -1,4 +1,14 @@
-# Advent of Code
+# Advent of Code (2018)
+* http://adventofcode.com/2018
+
+
+## Day01
+* http://adventofcode.com/2018/day/1
+* Part 1 and 2 solved using ES6
+
+---
+
+# Advent of Code (2017)
 * http://adventofcode.com/2017
 
 
