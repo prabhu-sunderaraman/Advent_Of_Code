@@ -13,7 +13,6 @@ func FindNumberOfValidPasswords(passwords []string) (count int) {
 		password := items[2]
 		min, _ := strconv.Atoi(minMaxNumbers[0])
 		max, _ := strconv.Atoi(minMaxNumbers[1])
-		//fmt.Println(passwordLine, min, max, letter, password)
 		numberOfOccurences := computeNumberOfOccurencesOf(letter, password)
 		if numberOfOccurences >= min && numberOfOccurences <= max {
 			count++
@@ -44,8 +43,6 @@ func FindNumberOfValidPasswordsBasedOnPositions(passwords []string) (count int) 
 		if valid := passwordRuleValid(letter, letterAtPosition1, letterAtPosition2); valid {
 			count++
 		}
-
-		//fmt.Println(positions, password, letter, "--", string(password[position1-1]), string(password[position2-1]))
 	}
 	return
 }
